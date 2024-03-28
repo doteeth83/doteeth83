@@ -43,5 +43,5 @@
 
 <br>
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doteeth83&layout=compact)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doteeth83&layout=compact&theme=nord&hide_border=true" /></a> 
 </div>
