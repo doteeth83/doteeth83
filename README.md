@@ -42,5 +42,6 @@
 </div>
 
 <br>
-
-![dohee's GitHub stats](https://github-readme-stats.vercel.app/api?username=doteeth83&show_icons=true&theme=radical)
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doteeth83&layout=compact)
+</div>
