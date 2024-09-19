@@ -42,5 +42,3 @@
 </div>
 
 <br>
-
-![dohee's GitHub stats](https://github-readme-stats.vercel.app/api?username=doteeth83&show_icons=true&theme=radical)
