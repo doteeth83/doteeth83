@@ -1,8 +1,6 @@
 <div align="center">
 
-### 🍀 고도희 | Frontend Developer  
-사용자가 머무를 수 있는 경험을 고민하는  
-UI/UX를 고민하는 프론트엔드 개발자입니다 👩‍💻
+### 고도희 | Frontend Developer  
 
 </div>
 
@@ -52,5 +50,3 @@ UI/UX를 고민하는 프론트엔드 개발자입니다 👩‍💻
 > `Vite` `Git`
 
 ---
-
-> ✨ 오늘도 사용자와 가장 가까운 화면을 고민하며 성장 중입니다
