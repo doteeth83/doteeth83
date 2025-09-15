@@ -3,8 +3,10 @@
 ### 고도희 | Frontend Developer  
 
 </div>
+
 ### 🤹🏻 Portfolio
-https://portfolio-eight-eosin-35.vercel.app/
+- https://portfolio-eight-eosin-35.vercel.app/
+  
 ### 📌 Contact
 - Email : rhehgml00@naver.com
 
